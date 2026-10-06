@@ -24,9 +24,8 @@ Na tela inicial do instalador, siga as instruções apresentadas.
 
 Aceite os termos de licença e avance pelas etapas da instalação.
 
-![Instalação do MySQL Workbench](imagem-instalacao.png)
-
 Aguarde enquanto os arquivos necessários são instalados no computador.
+
 
 ## 3. Finalização
 
@@ -34,7 +33,6 @@ Após a instalação, abra o MySQL Workbench pelo menu Iniciar do Windows.
 
 Ao abrir o programa, será apresentada a tela inicial do MySQL Workbench.
 
-![Tela inicial do MySQL Workbench](mysql-workbench.png)
 
 ## 4. Utilização
 
